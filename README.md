@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benchen216" alt="benchen216" /></a> </p>
 
-- 📫 How to reach me **benchen216@gmail.com**
+- 📫 How to reach me **benchen216[at]gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
