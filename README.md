@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benchen216&label=Profile%20views&color=0e75b6&style=flat" alt="benchen216" /> </p>
+
 # Benjamin Chen
 
 Software engineer based in Taiwan, interested in AI-assisted software delivery, specification-driven development, and reliable full-stack systems.
