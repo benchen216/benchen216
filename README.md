@@ -1,15 +1,32 @@
-<h1 align="center">Hi 👋, I'm benjamin</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+# Benjamin Chen
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benchen216&label=Profile%20views&color=0e75b6&style=flat" alt="benchen216" /> </p>
+Software engineer based in Taiwan, interested in AI-assisted software delivery, specification-driven development, and reliable full-stack systems.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benchen216" alt="benchen216" /></a> </p>
+## Focus
 
+- AI-assisted and specification-driven software delivery
+- Behavior-driven development, test automation, and developer tooling
+- Full-stack web development and deployable backend services
 
+## Selected public work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- **[Shop2Go](https://github.com/benchen216/go2shop)** — A full-stack platform for creators, built with Next.js, NextAuth, Prisma, Tailwind CSS, and tRPC.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benchen216&show_icons=true&locale=en&layout=compact" alt="benchen216" /></p>
+- **[YOURLS Open Graph Support](https://github.com/benchen216/YOURLS-Open-Source-URL-Shortener-With-Open-Graph-Support)** — A YOURLS plugin for managing Open Graph metadata on shared links.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benchen216&show_icons=true&locale=en" alt="benchen216" /></p>
+## Community contribution
+
+- **[Taiwan Spec-Driven Development community](https://sdd.tw/rank)** — Technical contributor to the SDD ecosystem, ranked **#3** on the public contribution leaderboard with **57,015 points**.
+
+## Earlier academic work
+
+- **[iVoc](https://github.com/benchen216/flutter-ivoc)** — A Flutter vocabulary-learning app with text-to-speech support for Android and iOS.
+
+- **[Logic Gate Circuit Simulator](https://github.com/benchen216/logic-gate-sim)** — A logic-circuit simulation project with a C++ core, Python bindings, a Flask interface, automated tests, and CI.
+
+- **[NCTU Go Programming 2021](https://github.com/benchen216/NCTU-GoProgramming-2021)** — A public coursework repository for the 2021 fall Go Programming course at National Chiao Tung University.
+
+## Elsewhere
+
+- Writing: [blog.ben2.win](https://blog.ben2.win)
+- GitHub: [@benchen216](https://github.com/benchen216)
